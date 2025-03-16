@@ -1,1 +1,1 @@
-api in go lang
+A simple rest api implementation in Go lang
