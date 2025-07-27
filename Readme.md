@@ -1,17 +1,5 @@
 
-Awesome. Based on your answers:
-
-* ✅ Project name: `stack-crawler`
-* ✅ Scraping platforms: Let’s go with **Wellfound**, **Cutshort**, and **Remotive** (good mix, public listings, manageable HTML)
-* ✅ Storage: **Neon Postgres** (solid choice, scalable, cloud-friendly)
-* ✅ Frontend: Minimal or none (maybe API testing via Swagger UI for now)
-* ✅ Hosting: **Render**
-
-Here’s your complete, polished `README.md` for **`stack-crawler`** 👇
-
----
-
-```markdown
+```
 # 🕷️ Stack Crawler – Job Stack Insights from Real Listings
 
 `stack-crawler` is a backend-focused project that scrapes real job listings from platforms like Wellfound, Cutshort, and Remotive, storing and analyzing the required tech stacks used across companies.
